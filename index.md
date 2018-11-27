@@ -8,18 +8,20 @@
   gtag('config', 'UA-76572413-5');
 </script>
 
-## Welcome to MILANSCHOOLofAI
+# Welcome to MILAN SCHOOL of AI
 
 
 
 ### WHAT IS MSOAI?
 
-Ai training and networking group by SchoolofAi.
+AI training and networking group by Siraj Raval's School of AI.
 
-
+### NO COST
 
 - FREE
 - OPEN TO EVERYONE
+
+### Spread the word!
 
 1. FOLLOW ON SOCIAL MEDIA
 
