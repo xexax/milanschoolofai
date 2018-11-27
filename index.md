@@ -21,11 +21,9 @@ AI training and networking group by Siraj Raval's School of AI.
 - FREE
 - OPEN TO EVERYONE
 
-### Spread the word!
+### JOIN THE COMMUNITY SPREAD THE WORD !
 
-1. FOLLOW ON SOCIAL MEDIA
-
-[Facebook Group](https://www.facebook.com/groups/2125185790887697)
+1. FOLLOW ON SOCIAL MEDIA [Facebook Group](https://www.facebook.com/groups/2125185790887697)
 
 ### HOW TO SUPPORT THIS INITIATIVE AND ARRANGE TRAINING ?
 
